@@ -1,0 +1,10 @@
+main.c:75:5:main	53464	static
+main.c:232:6:SystemClock_Config	248	static
+main.c:289:13:MX_LPUART1_UART_Init	8	static
+main.c:337:13:MX_USART3_UART_Init	8	static
+main.c:385:13:MX_SPI1_Init	8	static
+main.c:423:13:MX_DMA_Init	16	static
+main.c:445:13:MX_GPIO_Init	56	static
+main.c:511:13:Toggle_GPIO_pin_Init	32	static
+main.c:526:13:Bit_Bang_clock_gen	24	static
+main.c:543:6:Error_Handler	4	static,ignoring_inline_asm
